@@ -27,4 +27,14 @@
   - Poder de memória (RAM);
   - Poder gráfico (GPU);
 
+### Cobrança
+O preço é calculado pelo poder da máquina (memória, disco e GPUs).
+O preço é dividido entre CPUs e memória(GB)/hora utilizada. O preço fica mais barato quanto mais tempo você mantém a VM no Azure. 
+
 A Azure oferece diversas opções de gerenciamento de disponibilidade e resiliência para os aplicativos.
+
+### Criando VM
+Criei uma VM para Coisas Gerais com Windows de 50GB de disco, com 8GB de RAM. Peguei a versão com um pouco mais de memória (mais cara).
+- Podemos editar as configurações da VM ou criar mais VMs. Consigo até colocar uma senha no Windows sem abrir a VM em si.
+- Consegui abrir a VM. 😉 Tudo nos conformes.
+- A Velocidade de Internet é ENORME. VAMOS JOGAR ALGUM JOGO DEPOIS.
